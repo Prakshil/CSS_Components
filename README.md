@@ -43,14 +43,13 @@ A curated collection of modern, responsive CSS components ready to use in your w
 
 
 #### Footer 3
-- **Location**: `footer3/`
+
 - **Features**:
   - Modern footer with social media integration
   - Font Awesome icons support
   - Newsletter subscription form
   - Real company content example
   - Fully responsive design
-- **Preview**: See `footer3/image.png`
 
 ## 🚀 Quick Start
 
@@ -82,13 +81,6 @@ All components are designed to be easily customizable:
 - **Spacing**: Adjust margins, padding, and dimensions
 - **Content**: Replace text, images, and links with your own
 
-## 🌐 Browser Compatibility
-
-All components are tested and compatible with:
-- ✅ Google Chrome (latest)
-- ✅ Mozilla Firefox (latest)
-- ✅ Microsoft Edge (latest)
-- ✅ Safari (latest)
 
 ## 📱 Responsive Design
 
@@ -120,6 +112,6 @@ This project is open-source and available for personal and educational use.
 
 ---
 
-**Created with ❤️ for the developer community**
+**Created with ❤️ by Prakshil Patel for the developer community**
 
 *Last updated: July 2025*
