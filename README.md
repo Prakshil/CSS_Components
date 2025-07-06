@@ -15,7 +15,7 @@ A curated collection of modern, responsive CSS components ready to use in your w
 
 
 #### Card 3
-- **Location**: `card3/`
+
 - **Features**:
   - Avatar and logo integration
   - Modern profile card design
