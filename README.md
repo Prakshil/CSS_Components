@@ -25,22 +25,22 @@ A curated collection of modern, responsive CSS components ready to use in your w
 ### 🦶 Footer Components
 
 #### Footer 1
-- **Location**: `footer1/`
+
 - **Features**:
   - Responsive design with gradient styling
   - Flexbox-based layout
   - Modern visual appeal
   - Cross-browser compatibility
-- **Preview**: See `footer1/image.png`
+
 
 #### Footer 2
-- **Location**: `footer2/`
+
 - **Features**:
   - Alternative footer design
   - Responsive layout
   - Clean and professional appearance
   - Easy customization options
-- **Preview**: See `footer2/image.png`
+
 
 #### Footer 3
 - **Location**: `footer3/`
