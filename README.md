@@ -7,13 +7,12 @@ A curated collection of modern, responsive CSS components ready to use in your w
 ### 🃏 Card Components
 
 #### Card 2
-- **Location**: `card2/`
 - **Features**: 
   - Clean image-based card layout
   - Visually appealing design
   - Perfect for showcasing products or user information
   - Customizable styles
-- **Preview**: See `card2/UI.png`
+
 
 #### Card 3
 - **Location**: `card3/`
@@ -22,7 +21,6 @@ A curated collection of modern, responsive CSS components ready to use in your w
   - Modern profile card design
   - Ideal for team member highlights or branding components
   - Flexible layout system
-- **Preview**: See `card3/UI.png`
 
 ### 🦶 Footer Components
 
